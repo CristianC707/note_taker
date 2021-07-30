@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "clog": "^0.1.6",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "uuidv4": "^6.2.11"
   }
 }
