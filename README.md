@@ -13,13 +13,11 @@ npm i
 ![Screenshot 2021-07-30 161159](https://user-images.githubusercontent.com/83788525/127707404-6e9c0aea-2f52-417e-b289-400d16020f8f.png)
 
 ## Tech Stack
-* CSS3
-* HTML5
-* JavaScript
-* Node.js
-* Express.js
-* Uuid
-* Json
+* Clog
+* Express
+* Fs
+* Path
+* Uuidv4
 
 ## Link To Deployed Site
 https://damp-spire-00197.herokuapp.com/
